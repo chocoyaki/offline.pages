@@ -1,4 +1,4 @@
-sinai.usb
+Offline Pages
 =========
 
-HTML5 on usb key
+HTML5 for an offline use
